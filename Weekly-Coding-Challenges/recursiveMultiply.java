@@ -24,4 +24,3 @@ public class recursiveMultiply {
     }
 }
 
-// BSC pw: RgReXNpbdZaD3
